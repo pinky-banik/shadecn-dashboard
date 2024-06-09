@@ -1,6 +1,6 @@
 
 
-import { cn } from '@/lib/utils';
+import { cn } from '../lib/utils';
 import { User2Icon } from 'lucide-react';
 import React from 'react'; 
 import { Activity, CreditCard, DollarSign, UserCheck, Users } from "lucide-react";

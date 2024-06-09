@@ -13,10 +13,10 @@
 /** @format */
 "use client";
 
-import { DataTable } from "@/components/DataTable";
+import { DataTable } from "../../components/DataTable";
 import React from "react";
-import PageTitle from "@/components/PageTitle";
-import { cn } from "@/lib/utils";
+import PageTitle from "../../components/PageTitle";
+import { cn } from "../../lib/utils";
 
 
 

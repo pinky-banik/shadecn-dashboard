@@ -8,9 +8,9 @@
 /** @format */
 "use client";
 
-import { DataTable } from "@/components/DataTable";
+import { DataTable } from "../../components/DataTable";
 import React from "react";
-import PageTitle from "@/components/PageTitle";
+import PageTitle from "../../components/PageTitle";
 
 
 

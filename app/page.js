@@ -1,9 +1,9 @@
-import PageTitle from "@/components/PageTitle";
+import PageTitle from "../components/PageTitle";
 import Image from "next/image";
 import { Activity,  CreditCard, DollarSign, UserCheck, Users } from "lucide-react";
-import Card, { CardContent } from "@/components/Card";
-import BarChart from "@/components/BarChart";
-import SalesCard from "@/components/SalesCard";
+import Card, { CardContent } from "../components/Card";
+import BarChart from "../components/BarChart";
+import SalesCard from "../components/SalesCard";
 const cardData = [
     {
       label: "Total Revenue",
